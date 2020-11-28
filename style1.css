@@ -1,0 +1,60 @@
+.body{
+	width: 1800px;
+	height: 1500px;
+	background-color: #2B2B2B;
+}
+.bodytext{
+	width: 1800px;
+	height: 1000px;
+	display: flex;
+}
+.bodyscr{
+	width: 1800px;
+	height: 500px;
+	display: flex;
+}
+.textKaiju{
+	width: 1000px;
+	height: 1000px;
+	margin-left: 50px;
+	margin-top: 50px;
+	background-color: #C4C4C4
+}
+.KodN{
+	width: 1000px;
+	height: 50px;
+}
+.Class{
+	width: 1000px;
+	height: 50px;
+}
+.Massa{
+	width: 1000px;
+	height: 50px;
+}
+.Rost{
+	width: 1000px;
+	height: 50px;
+}
+.Description{
+	width: 1000px;
+	height: 800px;
+}
+.Text1{
+	font-size: 30px;
+}
+.Text2{
+	font-size: 40px;
+}
+.img1{
+	width: 400px;
+	height: 250px;
+	margin-left: 114px; 
+	margin-top: 150px;
+}
+.img2{
+	width: 400px;
+	height: 250px;
+	margin-left: 186px;
+	margin-top: 150px;
+}
